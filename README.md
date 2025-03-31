@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋 I am Suyash Vishwakarma</h1>
 <h3 align="center" > Hey! 👋 I'm Suyash, your friendly neighborhood web developer. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
 
-- 🌱 I’m currently learning **Redis and GraphQl**
-
-- 💬 Ask me about **react , java-script , Next.js**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me [suyashvishwakarma6280@gmail.com](mailto:suyashvishwakarma6280@gmail.com)
 
