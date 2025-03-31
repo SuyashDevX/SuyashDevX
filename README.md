@@ -1,5 +1,5 @@
-<!--<h1 align="center">Hi 👋 I am Suyash Vishwakarma</h1>
-<h3 align="center" > Hey! 👋 I'm Suyash, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
+<h1 align="center">Hi 👋 I am Suyash Vishwakarma</h1>
+<h3 align="center" > Hey! 👋 I'm Suyash, your friendly neighborhood web developer. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
 
 - 🌱 I’m currently learning **Redis and GraphQl**
 
@@ -10,10 +10,8 @@
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/Suyash-sevda-207798300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Suyash-sevda-207798300" height="30" width="40" /></a>
-<a href="https://leetcode.com/Suyash_sevda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@SuyashDevX" height="30" width="40" /></a>
-<a href="https://www.instagram.com/Suyash__sharma74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Suyash__sharma74/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/suyash-vishwakarma-420b20310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyash-vishwakarma-420b20310/" height="30" width="40" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyashDevX&style=plastic&abbreviated=true" alt="SuyashDevX" /> </p>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools⚒️ </h2>
@@ -37,6 +35,5 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=2473F7FF&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Thanks+For+Visiting!+✌️+:)">
 </h3>
--->
 
 ###
